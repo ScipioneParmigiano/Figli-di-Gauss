@@ -1,22 +1,17 @@
 # pcs.parmigiano@gmail.com
 
 
-# req_lib <- c("tidyverse", "simmer", "mathjaxr")
-# 
-# libraries <- function(req_lib){
-#   for(l in req_lib){
-#     if(!require(l, character.only = TRUE)){
-#       install.packages(l, dependencies = TRUE)
-#       library(l, character.only = TRUE)
-#     }
-#   }
-# }
-# libraries(req_lib)
+req_lib <- c("tidyverse", "simmer", "mathjaxr")
 
-library(tidyverse)
-library(simmer)
-library(mathjaxr)
-
+libraries <- function(req_lib){
+  for(l in req_lib){
+    if(!require(l, character.only = TRUE)){
+      install.packages(l, dependencies = TRUE)
+      library(l, character.only = TRUE)
+    }
+  }
+}
+libraries(req_lib)
 
 
 ui <- fluidPage(
