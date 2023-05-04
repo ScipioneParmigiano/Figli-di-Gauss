@@ -1,24 +1,17 @@
 # pcs.parmigiano@gmail.com
 
 
-# req_lib <- c("shiny", "forecast", "ggplot2", "xts", "tseries")
-# 
-# libraries <- function(req_lib){
-#   for(l in req_lib){
-#     if(!require(l, character.only = TRUE)){
-#       install.packages(l, dependencies = TRUE)
-#       library(l, character.only = TRUE)
-#     }
-#   }
-# }
-# libraries(req_lib)
+req_lib <- c("shiny", "forecast", "ggplot2", "xts", "tseries")
 
-library("shiny")
-library("forecast")
-library("ggplot2")
-library("xts")
-library("tseries")
-
+libraries <- function(req_lib){
+  for(l in req_lib){
+    if(!require(l, character.only = TRUE)){
+      install.packages(l, dependencies = TRUE)
+      library(l, character.only = TRUE)
+    }
+  }
+}
+libraries(req_lib)
 
 
 ##################### ui #######################################################
@@ -197,4 +190,3 @@ server <- function(input, output) {
 }
 
 shinyApp(ui, server)
-
