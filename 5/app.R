@@ -1,20 +1,18 @@
 # pcs.parmigiano@gmail.com
 
 
-# req_lib <- c("shiny", "webr")
-# 
-# libraries <- function(req_lib){
-#   for(l in req_lib){
-#     if(!require(l, character.only = TRUE)){
-#       install.packages(l, dependencies = TRUE)
-#       library(l, character.only = TRUE)
-#     }
-#   }
-# }
-# libraries(req_lib)
+req_lib <- c("shiny", "webr")
 
-library(webr)
-library(shiny)
+libraries <- function(req_lib){
+  for(l in req_lib){
+    if(!require(l, character.only = TRUE)){
+      install.packages(l, dependencies = TRUE)
+      library(l, character.only = TRUE)
+    }
+  }
+}
+libraries(req_lib)
+
 
 
 ##################### ui #######################################################
@@ -140,19 +138,16 @@ server <- function(input, output) {
   
   alt <- reactive({
     altezze_ <- rnorm(n(), mean_(), sqrt(var_()))
-    # return((altezze_ - mean(altezze_))/sd(altezze_))
     })
   
   norm <- reactive({
     set.seed(1)
     x_ <- rnorm(1000, 100, 10)
-    # return((x_ - mean(x_))/sd(x_))
   })
 
   unif <- reactive({
     set.seed(1)
     x_ <- runif(1000, 0, 1)
-    # return((x_ - mean(x_))/sd(x_))
   })
   
   prop <- reactive({as.double(input$p)})
@@ -325,8 +320,6 @@ server <- function(input, output) {
     
     hist(x)
   })
-  
-  
 }  
 
 shinyApp(ui, server)
