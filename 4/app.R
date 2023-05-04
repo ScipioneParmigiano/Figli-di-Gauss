@@ -419,8 +419,3 @@ server <- function(input, output) {
 }
 
 shinyApp(ui, server)
-
-
-
-# correggere valore di realizzazione finale e media campinaria, sospetto
-# l'errore sia nella funzione.
