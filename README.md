@@ -5,7 +5,7 @@ Il codice scritto da Pietro Zanotta.
 
 ## Processi stocastici: introduzione alle catene di Markov
 
-[link youtube](https://www.youtube.com/watch?v=Bp80NfH8bsY&list=PL9LxIy4nzJMJwk_ciqBUJse8V3MmHzqCb&index=8&pp=iAQB)
+[link all'episodio youtube](https://www.youtube.com/watch?v=Bp80NfH8bsY&list=PL9LxIy4nzJMJwk_ciqBUJse8V3MmHzqCb&index=8&pp=iAQB)
 
 [link alla dashboard](https://pietro-zanotta-2.shinyapps.io/markov_chain_1)
 
@@ -15,7 +15,7 @@ In questa live usciamo dall'ambito dell'epidemiologia e introduciamo un argoment
 
 ## Processi stocastici: catene di Markov continue e nascoste
 
-[link](https://www.youtube.com/watch?v=IFgInkRgT9Q&list=PL9LxIy4nzJMJwk_ciqBUJse8V3MmHzqCb&index=6&pp=iAQB)
+[link all'episodio youtube](https://www.youtube.com/watch?v=IFgInkRgT9Q&list=PL9LxIy4nzJMJwk_ciqBUJse8V3MmHzqCb&index=6&pp=iAQB)
 
 [link alla dashboard](https://pcsparmigiano.shinyapps.io/markov2/)
 
@@ -25,7 +25,7 @@ Proseguiamo con il filone sui processi di Markov con le catene continue e quelle
 
 ## Serie storiche: i modelli ARMA, ARIMA e SARIMA in pillole
 
-[link](https://www.youtube.com/watch?v=xtIHGQMD4iM&list=PL9LxIy4nzJMJwk_ciqBUJse8V3MmHzqCb&index=5&pp=iAQB)
+[link all'episodio youtube](https://www.youtube.com/watch?v=xtIHGQMD4iM&list=PL9LxIy4nzJMJwk_ciqBUJse8V3MmHzqCb&index=5&pp=iAQB)
 
 [link alla dashboard](https://pietro-zanotta-2.shinyapps.io/arima)
 
@@ -36,7 +36,7 @@ Grazie alla costruzione di dashboard sul software R, visualizzeremo degli esempi
 
 ## Metodi Monte Carlo
 
-[link](https://www.youtube.com/watch?v=IZT5wUp-gMw&list=PL9LxIy4nzJMJwk_ciqBUJse8V3MmHzqCb&index=2&pp=iAQB)
+[link all'episodio youtube](https://www.youtube.com/watch?v=IZT5wUp-gMw&list=PL9LxIy4nzJMJwk_ciqBUJse8V3MmHzqCb&index=2&pp=iAQB)
 
 [link alla dashboard](https://pcsparmigiano.shinyapps.io/mc_sim)
 
@@ -47,7 +47,7 @@ In che cosa consistono? Perché sono così utili? Qual è il razionale e quali s
 
 ## I test d'ipotesi - come funzionano?
 
-[link youtube](https://www.youtube.com/watch?v=UaGM-bzYQPo&list=PL9LxIy4nzJMJwk_ciqBUJse8V3MmHzqCb&index=1&pp=iAQB)
+[link all'episodio youtube](https://www.youtube.com/watch?v=UaGM-bzYQPo&list=PL9LxIy4nzJMJwk_ciqBUJse8V3MmHzqCb&index=1&pp=iAQB)
 
 [link alla dashboard](https://pietro-zanotta-2.shinyapps.io/test_ipotesi/)
 
