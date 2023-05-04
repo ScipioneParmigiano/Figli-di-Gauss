@@ -9,7 +9,7 @@ Il codice scritto da Pietro Zanotta.
 
 [link alla dashboard](https://pietro-zanotta-2.shinyapps.io/markov_chain_1)
 
-[link al codice]()
+[link al codice](https://github.com/ScipioneParmigiano/Figli-di-Gauss/tree/main/1)
 
 In questa live usciamo dall'ambito dell'epidemiologia e introduciamo un argomento che tocca più ambiti di applicazione, dal Machine learning, alla biologia all'economia. Con Pietro Zanotta, studente di economia, introduciamo il concetto di catene di Markov e, attraverso una dashboard sviluppata con il software statistico R, ne mostreremo le caratteristiche e il funzionamento.
 
@@ -19,7 +19,7 @@ In questa live usciamo dall'ambito dell'epidemiologia e introduciamo un argoment
 
 [link alla dashboard](https://pcsparmigiano.shinyapps.io/markov2/)
 
-[link al codice]()
+[link al codice](https://github.com/ScipioneParmigiano/Figli-di-Gauss/tree/main/2)
 
 Proseguiamo con il filone sui processi di Markov con le catene continue e quelle nascoste. Insieme cercheremo di visualizzare i concetti teorici trattati attraverso una dashboard sviluppata su R che ci mostri il funzionamento nella pratica di uno dei processi a tempi continui più noti, il processo di Poisson.
 
@@ -29,7 +29,7 @@ Proseguiamo con il filone sui processi di Markov con le catene continue e quelle
 
 [link alla dashboard](https://pietro-zanotta-2.shinyapps.io/arima)
 
-[link al codice]()
+[link al codice](https://github.com/ScipioneParmigiano/Figli-di-Gauss/tree/main/3)
 
 Con Pietro Zanotta continuiamo a parlare di serie storiche, introducendo la teoria dei modelli auto-regressivi a media mobile.
 Grazie alla costruzione di dashboard sul software R, visualizzeremo degli esempi pratici, evidenziandone limiti e potenzialità.
@@ -40,7 +40,7 @@ Grazie alla costruzione di dashboard sul software R, visualizzeremo degli esempi
 
 [link alla dashboard](https://pcsparmigiano.shinyapps.io/mc_sim)
 
-[link al codice]()
+[link al codice](https://github.com/ScipioneParmigiano/Figli-di-Gauss/tree/main/4)
 
 In questa puntata parliamo di metodi Monte Carlo, uno strumento di simulazione estremamente utile per risolvere una serie di problemi computazionali in una grande varietà di ambiti. Ma non solo, anche nome e storia di questi metodi sono curiosi. Dopo un accenno teorico e storico, passeremo alla visualizzazione del loro funzionamento mediante il software R, con un focus sulla roulette.
 In che cosa consistono? Perché sono così utili? Qual è il razionale e quali sono i pilastri concettuali su cui si reggono queste tecniche? Con Pietro Zanotta risponderemo a queste e ad altre domande!
@@ -51,7 +51,7 @@ In che cosa consistono? Perché sono così utili? Qual è il razionale e quali s
 
 [link alla dashboard](https://pietro-zanotta-2.shinyapps.io/test_ipotesi/)
 
-[link al codice]()
+[link al codice](https://github.com/ScipioneParmigiano/Figli-di-Gauss/tree/main/5)
 
 La formulazione delle ipotesi di ricerca rappresenta uno step fondamentale nella pianificazione di uno studio, che ne determina non solo il disegno, ma anche le tecniche di analisi dei dati.
 Ma come si valuta la plausibilità di un'ipotesi? Quest'ultima è compatibile con i nostri dati? Come si prende una decisione a riguardo? Quali sono gli elementi da considerare e quali approcci sono più indicati?
