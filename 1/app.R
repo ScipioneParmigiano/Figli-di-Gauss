@@ -312,7 +312,7 @@ il mercato e le sue evoluzioni tramite una catena di Markov.")
       
       m_matr <- new(states = c("Adidas", "Altro", "Nike"), 
                     "markovchain", transitionMatrix = p_matr)
-      
+    
       distr_tot <- c(un(), ua(), uo()) 
       
       t_state <- (distr_tot * m_matr ^ t())/sum(distr_tot)*100
