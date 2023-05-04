@@ -324,4 +324,3 @@ il mercato e le sue evoluzioni tramite una catena di Markov.")
 }
 
 shinyApp(ui, server)
-
